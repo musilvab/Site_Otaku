@@ -1,7 +1,6 @@
 .banner {
     background: var(--roxo-degrade);
     color: var(--branco);
-    font-family: var(--fonte-principal);
     padding: 2em 1em;
     text-align: center;
 }
@@ -23,7 +22,7 @@
     border: 2px solid var(--branco);
     border-radius: 25px;
     color: var(--branco);
-    
+    font-family: var(--fonte-principal);
 }
 
 .banner__pesquisa::placeholder {
