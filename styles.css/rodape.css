@@ -1,0 +1,25 @@
+.rodape {
+    background: var(--roxo-degrade);
+    color: var(--branco);
+    padding: 16px;
+}
+
+.rodape__imagem {
+    margin: 5px 0;
+}
+
+.rodape__lista--item {
+    margin: 12px 0;
+}
+
+.rodape__lista--link {
+    color: var(--branco);
+    font-size: 14px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.rodape__texto {
+    font-size: 12px;
+    margin-top: 3em;
+}
