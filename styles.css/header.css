@@ -1,0 +1,10 @@
+.cabecalho {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--branco);
+}
+
+.container {
+    margin: 10px;
+}
